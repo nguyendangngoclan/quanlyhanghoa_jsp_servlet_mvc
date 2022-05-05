@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/createProduct.jsp=UTF-8
+encoding//src/main/java/controller/CreateProductServlet.java=UTF-8
+encoding//src/main/java/controller/EditProductServlet.java=UTF-8
+encoding//src/main/java/controller/SearchProductServlet.java=UTF-8
+encoding//src/main/java/model/bo/CreateProductBO.java=UTF-8
+encoding//src/main/java/model/dao/CreateProductDAO.java=UTF-8
+encoding//src/main/java/model/dao/DeleteProductDAO.java=UTF-8
+encoding//src/main/java/model/dao/EditProductDAO.java=UTF-8
+encoding//src/main/java/model/dao/SearchProductDAO.java=UTF-8
